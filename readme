@@ -1,5 +1,5 @@
 For successful implementation of this project you should follow following steps
-1) save guidemo.fig, grayalgo.m, speech.m into the same folder
+1) save handsrec.m, grayalgo.m, texttospeech.m into the same folder
 2) save all the dataset images in the same folder
 3) run guidemo and place your hand in front of webcam to make some signs and the output will be in front of you.
 
